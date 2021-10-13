@@ -32,7 +32,7 @@ const Statewise = () => {
                                    <th> Confirmed</th>
                                    <th> recovered</th>
                                    <th>deaths</th>
-                                   <th>active</th>
+                                   <th>actie</th>
                                    <th>update</th>
                                </tr>
                            </thead>
