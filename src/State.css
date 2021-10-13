@@ -1,0 +1,13 @@
+.daths:hover{
+  background-color: red;
+
+    
+}
+
+.india{
+    color:green;
+}
+
+tbody tr td:hover{
+  background-color: yellowgreen;
+}
